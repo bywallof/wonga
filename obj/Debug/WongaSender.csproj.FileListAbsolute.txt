@@ -1,0 +1,9 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\bin\Debug\WongaSender.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\bin\Debug\WongaSender.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\bin\Debug\WongaSender.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\bin\Debug\RabbitMQ.Client.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\bin\Debug\RabbitMQ.Client.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\bin\Debug\RabbitMQ.Client.xml
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\obj\Debug\WongaSender.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\obj\Debug\WongaSender.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\WongaSender\WongaSender\obj\Debug\WongaSender.pdb
