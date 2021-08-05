@@ -13,7 +13,7 @@ namespace WongaSender
         {
             var factory = new ConnectionFactory
             {
-            //    Uri = new System.Uri("")
+            //    Uri = new System this has the problem of loading
             };
             
             //using  var  f = factory.CreateConnection();
